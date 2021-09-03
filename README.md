@@ -1,3 +1,3 @@
 # PomoBot
 
-Simple Pomodoro study buddy :)
+Simple Pomodoro study buddy for discord :)
